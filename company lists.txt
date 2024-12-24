@@ -1,0 +1,21 @@
+Reliance Industries Limited - RELIANCE.NS
+Tata Consultancy Services (TCS) - TCS.NS
+HDFC Bank Limited - HDFCBANK.NS
+Infosys Limited - INFY.NS
+ICICI Bank Limited - ICICIBANK.NS
+State Bank of India (SBI) - SBIN.NS
+Bharti Airtel Limited - BHARTIARTL.NS
+Adani Enterprises Limited - ADANIENT.NS
+Wipro Limited - WIPRO.NS
+Asian Paints Limited - ASIANPAINT.NS
+
+Apple Inc. - AAPL
+Microsoft Corporation - MSFT
+Amazon.com, Inc. - AMZN
+Tesla, Inc. - TSLA
+Alphabet Inc. (Google) - GOOG / GOOGL
+Meta Platforms, Inc. (Facebook) - META
+Berkshire Hathaway Inc. - BRK-B / BRK-A
+NVIDIA Corporation - NVDA
+Procter & Gamble Co. - PG
+Johnson & Johnson - JNJ
