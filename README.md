@@ -22,14 +22,16 @@ Fetch real-time stock data using Yahoo Finance.
 Visualize historical stock trends (Open, Close, Moving Averages, Candlestick charts).
 Predict future stock prices using Linear Regression.
 Interactive GUI for easy stock analysis.
-Displays summary statistics and performance metrics (e.g., Mean Squared Error).
-# Technologies & Libraries Used
-•	Language: Python
-•	Libraries:
-o	yfinance: Fetch stock market data
-o	pandas: Data manipulation
-o	numpy: Numerical computations
-o	matplotlib & mplfinance: Data visualization
-o	scikit-learn: Machine learning (Linear Regression)
-o	tkinter: GUI development
+Displays summary statistics and performance metrics (e.g., Mean Squared Error). <br>
+## **Technologies & Libraries Used**
+### **Language**  
+- Python  
+
+### **Libraries**  
+- **yfinance**: Fetch stock market data.  
+- **pandas**: Data manipulation.  
+- **numpy**: Numerical computations.  
+- **matplotlib** & **mplfinance**: Data visualization.  
+- **scikit-learn**: Machine learning (Linear Regression).  
+- **tkinter**: GUI development.
 
