@@ -12,8 +12,7 @@ Accurately predicting stock prices is challenging due to market volatility and t
 
 # Solution
 This project offers an interactive GUI-based application that:
-
-# Fetches real-time stock data using Yahoo Finance.
+Fetches real-time stock data using Yahoo Finance.
 Visualizes historical prices, moving averages, and candlestick charts.
 Applies Linear Regression to predict future prices.
 Provides a user-friendly interface for easy interaction.
